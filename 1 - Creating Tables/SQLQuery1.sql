@@ -1,0 +1,15 @@
+--CREATE TABLE EmployeeDemographics
+--(
+--EmployeeId int,
+--FirstName varchar(50),
+--LastName varchar(50),
+--Age int,
+--Gender varchar(50)
+--);
+
+--CREATE TABLE EmployeeSalary
+--(
+--EmployeeId int,
+--JobTitle varchar(50),
+--Salary integer
+--);
